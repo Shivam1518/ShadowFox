@@ -1,0 +1,44 @@
+/* FanZone Section */
+#fanzone {
+    background-color: #fff;
+    padding: 3rem 0;
+}
+
+#fanzone h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #D32F2F;
+}
+
+#fanzone .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+#fanzone .card-header {
+    background-color: #D32F2F;
+    color: white;
+    font-weight: bold;
+}
+
+#fanzone .card-body {
+    padding: 1.5rem;
+}
+
+#fanzone .form-check-label {
+    font-size: 1.1rem;
+}
+
+#fanzone .btn {
+    background-color: #D32F2F;
+    color: white;
+}
+
+#fanzone .btn:hover {
+    background-color: #C2185B;
+}
+
+#fanzone .img-fluid {
+    margin-top: 10px;
+    border-radius: 8px;
+}
